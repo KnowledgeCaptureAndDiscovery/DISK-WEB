@@ -22,7 +22,7 @@
 		<gson.version>2.6.2</gson.version>
 		<commons-configuration.version>1.10</commons-configuration.version>
 		<ontapi.version>1.2.4</ontapi.version>
-		<jbcrypt.version>0.3m</jbcrypt.version>
+		<jbcrypt.version>0.4</jbcrypt.version>
 		<java.version>1.8</java.version>
 		<httpclient.version>4.5.2</httpclient.version>
 		<webappDirectory>${project.build.directory}/${project.build.finalName}</webappDirectory>
